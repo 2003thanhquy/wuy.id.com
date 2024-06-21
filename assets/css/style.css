@@ -13,3 +13,24 @@ body{
     background: var(--bg-main);
     
 }
+
+h1{
+    font-size: 3.6rem;
+    font-weight: 700;
+    color: #333;
+    background: yellow;
+}
+#hacking{
+    width: 100px;
+    height: 100px;
+    border-radius: 10px;
+    background: violet;
+    position: relative;
+    left: 50%;
+    color: #FFFAF5;
+    
+}
+#hacking:hover{
+    background: red;
+    color: #FFFAF5;
+}
