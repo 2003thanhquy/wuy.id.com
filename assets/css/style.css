@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+    --bg-main : #FFFAF5;
+}
+
+html{
+    font-size: 62.5%; /* 1rem = 10px */
+}
+
+body{
+    font-size: 1.6rem;
+    font-family: "Poppins", sans-serif;
+    background: var(--bg-main);
+    
+}
